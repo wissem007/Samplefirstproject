@@ -1,1 +1,1 @@
-echo "This is my Jenkins fullcourse Tutorial. This is my first2222" 
+echo "This is my Jenkins fullcourse Tutorial. This is my " 
